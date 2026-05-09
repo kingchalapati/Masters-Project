@@ -1,0 +1,8 @@
+n_clusters,unique_dominant_peptides,intensity_split_clusters,weak_clusters_max<8,tiny_clusters_n<100,smallest_cluster_size
+10,10,0,1,0,140
+12,12,0,1,0,140
+13,12,1,1,0,140
+14,12,2,1,1,66
+15,12,3,2,1,66
+18,12,6,3,1,66
+20,12,8,3,1,66
