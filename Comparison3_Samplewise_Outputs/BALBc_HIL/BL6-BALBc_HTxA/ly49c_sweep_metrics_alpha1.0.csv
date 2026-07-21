@@ -1,5 +1,5 @@
-percentile,Ts_ly49c,n_cells,pct_cells_retained,n_clonotypes_baseline_ge5,n_clonotypes_filtered_ge5,n_common_clonotypes_ge5,median_cosine_dist,median_l1_dist,mean_entropy_change,mean_coherence_change
-1.0,,2696,100.0,111,111,111,0.0,0.0,0.0,0.0
+percentile,thresh_ly49C,n_cells,pct_cells_retained,n_clonotypes_baseline_ge5,n_clonotypes_filtered_ge5,n_common_clonotypes_ge5,median_cosine_dist,median_l1_dist,mean_entropy_change,mean_coherence_change
+1.0,,0,0.0,111,0,0,,,,
 0.995,,0,0.0,111,0,0,,,,
 0.99,,0,0.0,111,0,0,,,,
 0.985,,0,0.0,111,0,0,,,,

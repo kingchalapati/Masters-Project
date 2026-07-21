@@ -1,4 +1,4 @@
-sample,percentile,Ts_ly49c,alpha,mean_entropy_change,n_common_clonotypes_ge5,n_cells_after
+sample,percentile,thresh_syfpeithi,alpha,mean_entropy_change,n_common_clonotypes_ge5,n_cells_after
 BL6-BALBc_HTxA,1.0,0.0,0.0,0.0,111,2696
 BL6-BALBc_HTxA,1.0,0.0,1.0,0.0,111,2696
 BL6-BALBc_HTxA,1.0,0.0,2.0,0.0,111,2696
